@@ -1,11 +1,3 @@
-# Contracts
-
-Oasis Deployment: 
-
-Ticket Factory: http://scan.oasiseth.org/account/0x17045384c67fce489f62a2b8fc0df5f544abb59d
-
-Intoo TV smart contracts.
-
 To see how it works, head into the test directory. You will need to launch Ganache-cli with these parameters
 
 ```

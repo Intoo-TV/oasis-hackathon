@@ -18,9 +18,9 @@ Intoo TV's tokenomics includes:
 
 ## Tokenomics
 ### ɑ-Royals (v0.1, GR8 Hackathon)
-- Only 500 ɑ-Royals (alpha Royal XPs) generated on Ethereum Blockchain.
+- Only 500 ɑ-Royals (alpha Royal XPs) generated on the Oasis Blockchain.
 - Each Guest will receive only 1 ɑ-Royal per usage.
-- Usage will be determined for each Derivative XP Card minted on Matic, based on Original XP Card.
+- Usage will be determined for each Derivative XP Card minted on Oasis, based on Original XP Card.
 - Each creator will be able to receive up to 5 ɑ-Royals only. 
 - After that (if Templates are used more than 5 times), they won't receive any additional ɑ-Royal.
 - This will be part of “100 Creators” Private Beta release.
@@ -43,9 +43,9 @@ Intoo TV's tokenomics includes:
 
 ### RoyalXP (v.1.0 - final config)
 The final configuration of the **RoyalXP** (v.1.0) royalty token will work as follows: 
-1. “*Originals*” (Gen 0 NFTs - Templates) **XP Cards** are minted as NFTs by an *Original* Guest (initial creator) on the Ethereum Blockchain.
+1. “*Originals*” (Gen 0 NFTs - Templates) **XP Cards** are minted as NFTs by an *Original* Guest (initial creator).
 
-2. “*Derivatives*” (Gen 1, …, Gen N NFTs) **XP Cards** are based on *Originals*, and are directly “bridged” and minted as NFTs on Matic, with lower transaction fees. 
+2. “*Derivatives*” (Gen 1, …, Gen N NFTs) **XP Cards** are based on *Originals*, and are directly “bridged” and minted as NFTs on Oasis, with lower transaction fees. 
 
 3. Any time a new **Derivative XP Card** is *bridged* and *minted*, the *Original Guest* (XP Designer) receives an amount of royalties in **RoyalXP** tokens. 
 

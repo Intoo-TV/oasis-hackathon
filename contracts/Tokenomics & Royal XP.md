@@ -17,7 +17,7 @@ Intoo TV's tokenomics includes:
 - **XP Tickets**: After Guests & Hosts match with each other, they both receive an NFT Ticket to access the live event and broadcast/stream the XP in real time.
 
 ## Tokenomics
-### ɑ-Royals (v0.1, GR8 Hackathon)
+### ɑ-Royals (v0.1)
 - Only 500 ɑ-Royals (alpha Royal XPs) generated on the Oasis Blockchain.
 - Each Guest will receive only 1 ɑ-Royal per usage.
 - Usage will be determined for each Derivative XP Card minted on Oasis, based on Original XP Card.
